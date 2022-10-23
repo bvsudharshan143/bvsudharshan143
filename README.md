@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 Contact: +916302123894
 Mail.  : sudharshanbommana@gmail.com
-Linkin.:
+Linkin.:https://www.linkedin.com/in/bommana-sudharshan-54350622b
 
 <!---
 bvsudharshan143/bvsudharshan143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
